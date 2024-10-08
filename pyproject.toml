@@ -1,0 +1,17 @@
+[project]
+name = "house_prices_package_by_shiva"
+version = "0.0.1"
+authors = [
+  { name = "Shiva Shrestha", email = "shiva.shrestha@epita.fr" },
+]
+description = "House prices modules"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[tool.setuptools]
+packages = ["house_prices"]

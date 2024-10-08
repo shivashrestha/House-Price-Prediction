@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+house_prices/__init__.py
+house_prices/inference.py
+house_prices/preprocess.py
+house_prices/train.py
+house_prices_package_by_shiva.egg-info/PKG-INFO
+house_prices_package_by_shiva.egg-info/SOURCES.txt
+house_prices_package_by_shiva.egg-info/dependency_links.txt
+house_prices_package_by_shiva.egg-info/top_level.txt
