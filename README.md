@@ -1,7 +1,6 @@
-## DSP Assignment, EPITA
+## House Price predictions using regression
 
-This repository contains Python modules for predicting house prices. It's designed for a DSP assignment at EPITA by Shiva Shrestha.
-
+This repository contains Python modules for predicting house prices
 **Modules:**
 
 * **preprocess.py:** This module handles data preprocessing tasks like loading, cleaning, and transforming the dataset for use in training and inference.
